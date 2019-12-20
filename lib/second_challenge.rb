@@ -11,7 +11,7 @@ def second_challenge
         
       }
     ,
-    :friends => {
+    :hero_friends => {
       
     }
       }, 
