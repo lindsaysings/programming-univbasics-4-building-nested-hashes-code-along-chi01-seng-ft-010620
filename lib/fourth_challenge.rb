@@ -20,7 +20,8 @@ def fourth_challenge
       },
         "Mercutio" => {
           :name => "Mercutio",
-          :age => "17"
+          :age => "18",
+          :attitude => "hot-headed"
                               
                             }
         #your hashes here!
