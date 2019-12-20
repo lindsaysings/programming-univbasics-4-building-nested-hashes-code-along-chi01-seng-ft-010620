@@ -20,7 +20,7 @@ def bonus
    }
   }
 puts "**********"
- puts  epic_tragedy[:montague][:hero][:status]
+ puts  epic_tragedy[:montague][:hero][:status] ="dead"
   
   epic_tragedy[:capulet][:heroine][:status] = "dead"
   
@@ -31,4 +31,4 @@ puts "**********"
   epic_tragedy
 end
 
-bonus()
+#bonus()
