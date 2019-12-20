@@ -26,11 +26,11 @@ def second_challenge
         
       },
       
-      :hero => {
+      :heroine => {
         
       },
       
-      :hero_friends => [
+      :heroine_friends => [
         ]
       
     }
